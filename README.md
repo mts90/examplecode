@@ -19,5 +19,6 @@ https://github.com/mts90/imagefiles.git
 아래는 내가 넷상에 저장해둔 사진의 주소에 있는 사진을 출력해서 보여주고 클릭하면 해당 링크로 이동.
 [![image1](https://github.com/mts90/imagefiles/blob/master/image1.jpg)](https://blog.naver.com/mts90/221261220851)
 
+아래는 인터넷에 사진검색을 해서 마우스 오른쪽 버튼 누르고 이미지 주소 저장을 해서 복사, 그 후 링크 걸어서 내 블로그로 
 [![image1](http://photo.hankooki.com/newsphoto/v001/2018/01/03/sol20180103131629_O_00_C_1.jpg)](https://blog.naver.com/mts90/221261220851)
 
